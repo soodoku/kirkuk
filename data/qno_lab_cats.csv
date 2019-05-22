@@ -1,0 +1,101 @@
+var_name,lab,cat,tab_order
+regard_a,Regard for Arabs’ views,Intergroup,1
+regard_k,Regard for Kurds’ views,Intergroup,2
+regard_t,Regard for Turkmen’s views,Intergroup,3
+trust_a,Trust Arabs’ views,Intergroup,4
+trust_k,Trust Kurds’ views,Intergroup,5
+trust_t,Trust Turkmen’s views,Intergroup,6
+reason_a,Arabs open to reason,Intergroup,7
+reason_k,Kurds open to reason,Intergroup,8
+reason_t,Turkmen open to reason,Intergroup,9
+ethnocentrism,Ethnocentrism,Intergroup,10
+b1r,Satisfaction w/ Kirkuk Gov.,Satisfaction with Gov.,710
+b2_1,Kirkuk best governed governorate,Good Government,701
+b2_2,Governor works for good of all society,Equitable Government,704
+b2_3,Deputy Governor works for good of all ,Equitable Government,705
+b2_4,Prov. Council accountable to all,Equitable Government,706
+b2_5,Prov. Council operates efficiently,Good Government,702
+b2_6,Provincial well financed,Sufficient Powers,707
+b2_7,Prov. Council fiscal rectitude,Good Government,703
+b2_8,Prov. Council sufficient powers,Sufficient Powers,708
+b2_9,Prov. Council and Fed Govt cooperate,Sufficient Powers,709
+ca_1,Status quo option,Admin. Status of Kirkuk,49
+ca_2,Federal region option,Admin. Status of Kirkuk,53
+ca_3,Kurdish governorate option,Admin. Status of Kirkuk,60
+cb_1,Keep things as they are,Goals for Gov. of Kirkuk,50
+cb_2,Kirk increase powers,Goals for Gov. of Kirkuk,54
+cb_3,Kirk makes own decisions,Goals for Gov. of Kirkuk,55
+cb_4,Kirk protect from outside interests,Goals for Gov. of Kirkuk,56
+cb_5,Ethnic groups equal say,Goals for Gov. of Kirkuk,61
+cb_6,Kirk develop own polit identity,Goals for Gov. of Kirkuk,57
+cb_7,Kirk equal standing in Iraq,Goals for Gov. of Kirkuk,58
+cb_8,Good of entire country,Goals for Gov. of Kirkuk,51
+d2_1,Confidence in own ability,Political Efficacy,11
+d2_2,Own qualifications ,Political Efficacy,12
+d2_3,Own understanding,Political Efficacy,13
+d2_4,More informed than most,Political Efficacy,14
+d2_5,Politics too complicated,Political Efficacy,15
+d2_6,No real say,Political Efficacy,16
+d2_7,Public officials indifferent,Political Efficacy,17
+polint,Political Interest,Political Interest,18
+pol_efficacy,Political Efficacy,Political Efficacy,19
+d3_1,Trust in Governor,Trust in Institutions,34
+d3_2,Deputy governor,Trust in Institutions,35
+d3_3,Prov. Council,Trust in Institutions,36
+d3_4,Fed Govt,Trust in Institutions,38
+d3_5,KRG,Trust in Institutions,37
+d3_6,Council of Reps,Trust in Institutions,39
+d3_7,Judiciary,Trust in Institutions,40
+d3_8,Police,Trust in Institutions,47
+d3_9,Army,Trust in Institutions,41
+d3_10,Politicians,Trust in Institutions,42
+d3_11,Political Parties,Trust in Institutions,43
+d3_12,IHEC,Trust in Institutions,44
+d3_13,Media,Trust in Institutions,45
+d3_14,UNAMI,Trust in Institutions,46
+trust_index,Trust Index,Trust in Institutions,48
+d4_a,Contact with Politician,Political Activism,101
+d4_b,Worked for Polit Org.,Political Activism,102
+d4_c,Worked for Other Org.,Political Activism,103
+d4_d,Signed Petition,Political Activism,104
+d4_e,Lawful Public Demonstration,Political Activism,105
+d4_f,Social Media Discussion,Political Activism,106
+d4_g,Formal Group Discussion,Political Activism,107
+d4_h,Street Protest,Political Activism,108
+d5_1,Greater employment opportunities,Policy Goals,801
+d5_2,Giving people a greater say,Policy Goals,802
+d5_3,Improving health,Policy Goals,803
+d5_4,The environment,Policy Goals,804
+d5_5,Security,Policy Goals,805
+d5_6,Fighting corruption,Policy Goals,806
+d5_7,Improving education,Policy Goals,807
+d5_8,Economic growth,Policy Goals,808
+d5_9,Better inter-ethnic relations,Policy Goals,809
+d5_10,Gender equality,Policy Goals,810
+d5_11,Mixed schools,Policy Goals,811
+d5_12,Multi-lingualism,Policy Goals,812
+d5_13,Inter-marriage,Policy Goals,813
+d6a_1,General interest in polit. discussion,Society's Deliberative Capacity,28
+d6a_2,Comfort voicing views,Society's Deliberative Capacity,29
+d6a_3,Interest in hearing others’ views,Society's Deliberative Capacity,30
+d6a_4,Willingness to listen to conflicting views,Society's Deliberative Capacity,31
+d6a_5,Openness to revising polit. views,Society's Deliberative Capacity,32
+soc_delib_capacity,Society's Deliberative Capacity,Society's Deliberative Capacity,33
+d6b_1,Own interest in polit. discussion,Own Deliberative Capacity,20
+d6b_2,Comfort voicing own views,Own Deliberative Capacity,21
+d6b_3,Own interest in hearing others’ views,Own Deliberative Capacity,22
+d6b_4,Own willingness to listen to conflicting views ,Own Deliberative Capacity,23
+d6b_5,Unsettled by opposing views,Own Deliberative Capacity,24
+d6b_6,Validity of own views,Own Deliberative Capacity,25
+d6b_7,Openness to revising own polit. views,Own Deliberative Capacity,26
+own_delib_capacity,Own Deliberative Capacity,Own Deliberative Capacity,27
+know1,know1,Political Knowledge,201
+know2,know2,Political Knowledge,202
+know3,know3,Political Knowledge,203
+know4,know4,Political Knowledge,204
+know5,know5,Political Knowledge,205
+know,know,Political Knowledge,206
+fed,Status quo index,Admin. Status of Kirkuk,52
+ind_kirkuk,Federal region index,Admin. Status of Kirkuk,59
+local_trust,Trust in Kurdish Institutions & Leaders,Trust in Institutions,901
+central_trust,Trust in Federal Institutions & Leaders,Trust in Institutions,902

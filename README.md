@@ -24,7 +24,7 @@ In releasing the data, we haven't gone with the conventional, minimum dataset ne
 
 ### Tables
 
-See the outputs of the scripts [here](tabs/)
+See the outputs of the scripts [here](tabs/).
 
 ### Suggested Citation
 
